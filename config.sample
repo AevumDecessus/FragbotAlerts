@@ -1,0 +1,9 @@
+[phantombot]
+url = https://boturl.com:25000/dbquery
+webauth = super_secret_key_from_botlogin.txt
+
+[commands]
+donate = !bot_donate
+
+[extralife]
+teamid = 55801
